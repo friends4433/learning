@@ -13,3 +13,5 @@ resource "aws_internet_gateway" "default" {
         Name = "${var.IGW_name}"
     }
 }
+
+#Edit new edit 1st time
